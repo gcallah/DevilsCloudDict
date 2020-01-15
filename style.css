@@ -150,3 +150,6 @@ summary.menu_sum {
     margin: .5em 0em .5em 0em;
 }
 
+span.hilight {
+    color: #b28;
+}
