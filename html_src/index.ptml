@@ -2,7 +2,7 @@
     <head>
 <!--include head.txt -->
         <title>
-            The Devil's Ops Computing Dictionary
+            The DevOps Contradictionary
         </title>
     </head>
 
@@ -10,14 +10,8 @@
 <!--include logo.txt -->
 <!--include menu.txt -->
         <h1>
-            The Devil's Ops Computing Dictionary
+            The DevOps Contradictionary
         </h1>
-
-        <p>
-            This will broken out into separate files soon, as we add more
-            material.
-        </p>
-
 
         <ul>
 
