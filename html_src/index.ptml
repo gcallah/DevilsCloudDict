@@ -16,7 +16,7 @@
         <ul>
 
             <li>
-                <a name="agile development">
+                <a name="agile_development">
                 <span class="hilight">agile development</span>:
                 </a>
                 the ability of a development team to nimbly shift blame for
@@ -27,7 +27,7 @@
             </li>
 
             <li>
-                <a name="CI/CD pipeline">
+                <a name="CI/CD_pipeline">
                 <span class="hilight">CI/CD pipeline</span>:
                 </a>
                 a superhighway for rushing your latest bugs into 
@@ -44,7 +44,7 @@
             </li>
 
             <li>
-                <a name="continuous deployment">
+                <a name="continuous_deployment">
                 <span class="hilight">continuous deployment</span>:
                 </a>
                 the attempt by IT to subject the business to a stream of bugs
@@ -53,7 +53,7 @@
             </li>
 
             <li>
-                <a name="data science">
+                <a name="data_science">
                 <span class="hilight">data science</span>:
                 </a>
                 a subset of mine engineering, one which studies the process of
@@ -64,7 +64,7 @@
             </li>
 
             <li>
-                <a name="integration testing">
+                <a name="integration_testing">
                 <span class="hilight">integration testing</span>:
                 </a>
                 automated tests to determine if an IT department has a
@@ -73,13 +73,25 @@
             </li>
 
             <li>
-                <a name="kanban board">
+                <a name="kanban_board">
                 <span class="hilight">kanban board</span>:
                 </a>
                 a project management technique based on the idea that, if a 
                 development group is faced with an impossible-to-fulfill set of
                 demands, putting each demand on a post-it note will enable the
                 group to finish them all in a timely fashion.
+            </li>
+
+            <li>
+                <a name="machine_learning">
+                <span class="hilight">machine learning</span>:
+                </a>
+                an AI technique for explaining an otherwise disappointing
+                course outcome:
+                <b>Chair</b>: Prof. Smith, the course evaluations indicate
+                that your students didn't learning anything this term!
+                <b>Smith</b>: Yes, but the machines learned a tremendous
+                amount!
             </li>
 
             <li>
@@ -111,7 +123,7 @@
             </li>
 
             <li>
-                <a name="The Cloud">
+                <a name="The_Cloud">
                 <span class="hilight">The Cloud</span>:
                 </a>
                     an attempt by IT to escape all blame for future
